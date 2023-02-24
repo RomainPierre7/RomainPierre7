@@ -56,7 +56,7 @@
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
@@ -70,5 +70,5 @@
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=RomainPierre7&label=Profile%20views&color=0e75b6&style=flat"
     alt="RomainPierre7" /> 
   </p>
-
 <br>
+</details>
