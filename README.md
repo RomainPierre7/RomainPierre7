@@ -1,20 +1,18 @@
 <h1 align="center">Hi , I'm Romain PIERRE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-<summary><h3>🌟 Who am I ?</h3></summary>
-	<br>
+<details><summary><h3>🌟 Who am I ?</h3></summary>
+	
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="20%" /></p>
 
 - 🌱 I am currently a computer science student in engineering school.
 
 - 📫 To contact me by mail : **romain.pierre434@gmail.com**
+	
+	</details>
 
-<br>
-
-<br>
-
-<h3 align="left">🔨 Languages and Tools:</h3>
+<details><summary><h3 align="left">🔨 Languages and Tools:</h3></summary>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
@@ -47,14 +45,15 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a>
+</details>
 
-
-<h3 align="left">🌐 Connect with me:</h3>
+<details><summary><h3 align="left">🌐 Connect with me:</h3></summary>
 <p align="left">
   <a href="https://www.linkedin.com/in/romain-pierre7/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
+	</details>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
