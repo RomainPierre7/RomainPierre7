@@ -8,7 +8,7 @@
 
 - 🌱 I am currently a computer science student in engineering school.
 
-- 📫 To contact me by mail : **romain.pierre434@gmail.com**
+- 📫 To contact me by mail : **romain.pierre@enseirb-matmeca.fr**
 	
 	</details>
 
