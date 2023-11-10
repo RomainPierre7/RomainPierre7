@@ -21,12 +21,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://fr.m.wikipedia.org/wiki/Fichier:PHP-logo.svg" alt="php" width="40" height="40" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="60" height="40" /></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1173px-Android_logo_2019_%28stacked%29.svg.png" alt="android" width="40" height="40" /></a>
 </p>
-
-<br>
 
 <h3 align="left">🎨 Front-end:</h3>
 <p align="left">
@@ -35,29 +33,25 @@
 </p>
 
 <h3 align="left">📁 Database:</h3>
+  <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" alt="postgresql" width="40" height="40" /></a>
 
 <h3 align="left">🔎 Others:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/10/formation-git.png" alt="git" width="40" height="40" /></a>
   <a href="https://fr.wikipedia.org/wiki/Shellcode" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="shell" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="unix" width="70" height="40" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="androidstudio" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="androidstudio" width="40" height="40" /></a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" alt="apache" width="40" height="40" /></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" alt="latex" width="70" height="40" /></a>
 </p>
 
 <h2>📊 GitHub Profile Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="RomainPierre7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomainPierre7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
+  <img alt="RomainPierre7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomainPierre7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomainPierre7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="RomainPierre7" height="230px"/>
 </p>
 
-<br/>
-
-<br>
-
-<p align="right">
-  <h3>Profile Views :</h3>
-  <img src="https://komarev.com/ghpvc/?username=RomainPierre7&label=Profile%20views&
+  <img src="https://komarev.com/ghpvc/?username=RomainPierre7&label=Profile%20views&">
