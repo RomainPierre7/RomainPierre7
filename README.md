@@ -30,7 +30,7 @@
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://imgix.cosmicjs.com/1cb536e0-ba0e-11ed-907c-292879eb8504-astro-dark.png?w=286&h=77&auto=format&dpr=1" alt="astro" width="40" height="40" /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://imgix.cosmicjs.com/1cb536e0-ba0e-11ed-907c-292879eb8504-astro-dark.png?w=286&h=77&auto=format&dpr=1" alt="astro" width="70" height="40" /></a>
 </p>
 
 <h3 align="left">📁 Database:</h3>
