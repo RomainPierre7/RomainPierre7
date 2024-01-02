@@ -10,7 +10,7 @@
 
 - 🌱 I am currently a computer science student in engineering school.
 - 📫 To contact me by mail: **romain.pierre@enseirb-matmeca.fr**
-- 🌐 Connect with me : <a href="https://www.linkedin.com/in/romain-pierre7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="20" width="40" /></a>
+- 🌐 Connect with me : <a href="https://www.linkedin.com/in/romainpierre7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="20" width="40" /></a>
 - 🚀 Go on my personal website at this [link](https://romainpierre7.github.io/Portfolio/).
 
 <h2 align="left">💻 Skills</h2>
