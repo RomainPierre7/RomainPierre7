@@ -39,6 +39,7 @@
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="node.js" width="60" height="40" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express.js" width="60" height="40" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="60" height="40" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40" /></a>
 
 <h3 align="left">📁 Databases:</h3>
   <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90" height="40" /></a>
