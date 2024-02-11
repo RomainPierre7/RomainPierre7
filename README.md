@@ -24,6 +24,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1173px-Android_logo_2019_%28stacked%29.svg.png" alt="android" width="40" height="40" /></a>
+  <a href="https://fr.wikipedia.org/wiki/Shellcode" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="shell" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">🎨 Front-end:</h3>
@@ -48,7 +49,6 @@
 <h3 align="left">🔎 Others:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/10/formation-git.png" alt="git" width="40" height="40" /></a>
-  <a href="https://fr.wikipedia.org/wiki/Shellcode" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="shell" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="unix" width="70" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="androidstudio" width="40" height="40" /></a>
