@@ -65,6 +65,12 @@ Learning PyTorch and OpenCV !
 <p align="center">
   <img alt="RomainPierre7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomainPierre7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomainPierre7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="RomainPierre7" height="230px"/>
+
+![RomainPierre7's Stats](https://github-readme-stats.vercel.app/api?username=RomainPierre7&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![RomainPierre7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomainPierre7&theme=dark&hide_border=true)
+
+![RomainPierre7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainPierre7&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
   <img src="https://komarev.com/ghpvc/?username=RomainPierre7&label=Profile%20views&">
