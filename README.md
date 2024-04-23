@@ -64,11 +64,12 @@ Learning PyTorch and OpenCV !
 
 <p align="center">
 
-![RomainPierre7's Stats](https://github-readme-stats.vercel.app/api?username=RomainPierre7&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![RomainPierre7's Stats](https://github-readme-stats.vercel.app/api?username=RomainPierre7&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 
 ![RomainPierre7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomainPierre7&theme=outrun&hide_border=true)
 
-![RomainPierre7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainPierre7&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![RomainPierre7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainPierre7&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=RomainPierre7&label=Profile%20views&">
