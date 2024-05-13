@@ -14,7 +14,7 @@
 - 🚀 Go on my personal website at this [link](https://romainpierre7.github.io/Portfolio/).
 
 <h2 align="left">🕒 Currently</h2>
-Learning PyTorch and OpenCV !
+Learning PyTorch, OpenCV and Rust !
 
 <h2 align="left">💻 Skills</h2>
 
