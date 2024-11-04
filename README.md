@@ -21,27 +21,27 @@
 
 <h3 align="left">🔨 Programming languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,kotlin,js,ts,bash)](https://romainpierre7.github.io/Portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,kotlin,js,ts,bash)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h3 align="left">🧠 AI:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://romainpierre7.github.io/Portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h3 align="left">🎨 Front-end:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,selenium)](https://romainpierre7.github.io/Portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,selenium)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h3 align="left">🚀 Back-end:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,postman)](https://romainpierre7.github.io/Portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,postman)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h3 align="left">📁 Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://romainpierre7.github.io/Portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h3 align="left">🔎 Others:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,arch,ubuntu,windows,vscode,androidstudio,latex)](https://romainpierre7.github.io/Portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,arch,ubuntu,windows,vscode,androidstudio,latex)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h2>📊 GitHub Profile Stats</h2>
 
