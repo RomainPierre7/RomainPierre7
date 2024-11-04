@@ -15,33 +15,33 @@
 
 <h2 align="left">🕒 Currently learning or working on</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,unreal)](https://romainpierre7.github.io/Portfolio/)
 
 <h2 align="left">💻 Skills</h2>
 
 <h3 align="left">🔨 Programming languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,kotlin,js,ts,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,kotlin,js,ts,bash)](https://romainpierre7.github.io/Portfolio/)
 
 <h3 align="left">🧠 AI:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
+[![My Skills](https://romainpierre7.github.io/Portfolio//icons?i=pytorch,tensorflow,sklearn,opencv)](https://romainpierre7.github.io/Portfolio/)
 
 <h3 align="left">🎨 Front-end:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,selenium)](https://romainpierre7.github.io/Portfolio/)
 
 <h3 align="left">🚀 Back-end:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,postman)](https://romainpierre7.github.io/Portfolio/)
 
 <h3 align="left">📁 Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://romainpierre7.github.io/Portfolio/)
 
 <h3 align="left">🔎 Others:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,arch,ubuntu,windows,vscode,androidstudio,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,arch,ubuntu,windows,vscode,androidstudio,latex)](https://romainpierre7.github.io/Portfolio/)
 
 <h2>📊 GitHub Profile Stats</h2>
 
