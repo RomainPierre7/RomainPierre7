@@ -25,7 +25,7 @@
 
 <h3 align="left">🧠 AI:</h3>
 
-[![My Skills](https://romainpierre7.github.io/Portfolio//icons?i=pytorch,tensorflow,sklearn,opencv)](https://romainpierre7.github.io/Portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://romainpierre7.github.io/Portfolio/)
 
 <h3 align="left">🎨 Front-end:</h3>
 
