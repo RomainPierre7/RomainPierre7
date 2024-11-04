@@ -41,7 +41,7 @@
 
 <h3 align="left">🔎 Others:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,androidstudio,latex,arch,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,arch,ubuntu,windows,vscode,androidstudio,latex)](https://skillicons.dev)
 
 <h2>📊 GitHub Profile Stats</h2>
 
