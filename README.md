@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,kotlin,js,ts,bash)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
-<h3 align="left">🧠 AI:</h3>
+<h3 align="left">🧠 AI/ML:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
