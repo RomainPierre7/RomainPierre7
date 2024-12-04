@@ -41,7 +41,7 @@
 
 <h3 align="left">🔎 Others:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,arch,ubuntu,windows,vscode,androidstudio,latex)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,arch,ubuntu,windows,vscode,androidstudio,latex,docker)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h2>📊 GitHub Profile Stats</h2>
 
