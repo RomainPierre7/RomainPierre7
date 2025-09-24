@@ -8,8 +8,7 @@
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="20%" />
 </p>
 
-- 🌱 I am currently a computer science student in engineering school.
-- 📫 To contact me by mail: **romain.pierre@enseirb-matmeca.fr**
+- 🌱 I am a computer science engineer!
 - 🌐 Connect with me : <a href="https://www.linkedin.com/in/romainpierre7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="20" width="40" /></a>
 - 🚀 Go on my personal website at this [link](https://romainpierre7.github.io/Portfolio/).
 
@@ -21,7 +20,7 @@
 
 <h3 align="left">🔨 Programming languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,java,kotlin,js,ts,bash)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,dotnet,js,ts,bash)](https://romainpierre7.github.io/Portfolio/about-me/#skills)
 
 <h3 align="left">🧠 AI/ML:</h3>
 
